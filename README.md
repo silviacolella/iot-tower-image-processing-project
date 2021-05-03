@@ -1,1 +1,1 @@
-# iot-tower-image-processing-project
+# IoT Innovation Tower - Image processing project
